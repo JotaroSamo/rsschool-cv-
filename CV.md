@@ -2,7 +2,6 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>CV Антон Самошук Юрьевич</title>
 </head>
 <body>
 	<h1>Антон Самошук Юрьевич</h1>
