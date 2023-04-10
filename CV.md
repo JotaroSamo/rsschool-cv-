@@ -18,7 +18,8 @@
   <li>Инструменты разработки: Visual Studio Code, Visual Studio</li>
 </ul></p>
 <h1><strong>Примеры кода:</strong></h1>
-	<p> примеры моего кода доступны на моей странице на GitHub: <a href="https://github.com/example">https://github.com/example</a>
+	<p> примеры моего кода доступны на моей странице на GitHub: <a href="[https://github.com/JotaroSamo]">https://github.com/JotaroSamo</a>
+		
 <div><pre><code class="language-csharp">
 using System.Security.Claims;
 using TESTINGAPP.BusinessLogic.Interfaces;
